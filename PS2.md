@@ -1,7 +1,7 @@
 You are given a square matrix A with dimensions NXN.
 Your task is to find the determinant.
 
-#Input Format
+# Input Format
 The first line contains the integer N. 
 The next N lines contains the N space separated elements of array A.
 
